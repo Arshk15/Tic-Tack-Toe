@@ -38,6 +38,7 @@ This project was made to practice **DOM manipulation** and **event listeners** i
 
 ## ⚡ Live Demo
 👉 [Play the Game Here] 
+ https://arshk15.github.io/Tic-Tack-Toe/
 
 ---
 
