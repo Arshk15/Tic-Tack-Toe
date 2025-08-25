@@ -23,7 +23,7 @@ This project was made to practice **DOM manipulation** and **event listeners** i
 
 ## 🚀 How to Play
 1. Open the game in your browser.  
-2. Player **X** starts first.  
+2. Player **O** starts first.  
 3. Players take turns clicking on the boxes.  
 4. First player to align **3 marks** in a row, column, or diagonal wins!  
 5. If all boxes are filled without a winner → **Draw**.  
