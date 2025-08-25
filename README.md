@@ -45,6 +45,6 @@ This project was made to practice **DOM manipulation** and **event listeners** i
 ## 🛠️ Setup & Run Locally
 ```bash
 # Clone the repository
-[git clone https://github.com/YOUR-USERNAME/tic-tac-toe.git](https://github.com/Arshk15/Tic-Tack-Toe)
+https://github.com/Arshk15/Tic-Tack-Toe
 
 # Open index.html in your browser
